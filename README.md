@@ -1,4 +1,4 @@
-# Olm Transcriptome Explorer: Shiny Web Server 
+# Proteus anguinus Transcriptome Analysis: Shiny Web Server 
 
 **Live server**: [comp-pheno.de/olm](https://comp-pheno.de/olm)  
 **Associated publication**: TODO
