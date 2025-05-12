@@ -7,6 +7,6 @@ This repository hosts the interactive Shiny web application supporting the trans
 
 **Developer**: Defne Demirtürk
 
-**Affiliation**: [Computational Phenomics Group](https://comp-pheno.de), Ruhr University Bochum  
+**Affiliation**: [Computational Phenomics Group](http://www.comp-pheno.de), Ruhr University Bochum  
 
 
