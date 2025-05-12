@@ -5,7 +5,7 @@
 
 **Data**:TODO / Link to ZENODO
 
-This repository contains the code for the the interactive Shiny web application supporting the transcriptomic analysis of the olm (*Proteus anguinus*) from the publication "The transcriptome of the olm (Proteus anguinus) provides insights into its evolution and gene expression". The server enables exploration of organ-specific expression profiles (6 organs, 2-3 replicates) and Positive/negative selection analysis results.
+This repository contains the code for the the interactive Shiny web application supporting the transcriptomic analysis of the olm (*Proteus anguinus*) from the publication "The transcriptome of the olm (Proteus anguinus) provides insights into its evolution and gene expression". The server enables exploration of organ-specific expression profiles (6 organs, 2-3 replicates) and positive/negative selection analysis results.
 
 **Developer**: Defne Demirtürk
 
