@@ -1,6 +1,6 @@
 # Proteus anguinus Transcriptome Analysis: Shiny Web Server 
 
-**Live server**: [comp-pheno.de/olm](https://comp-pheno.de/olm)  
+**Live server**: [comp-pheno.de/olm](http://www.comp-pheno.de/olm)  
 **Associated publication**: TODO
 
 **Data**:TODO / Link to ZENODO
